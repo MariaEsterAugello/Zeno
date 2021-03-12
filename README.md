@@ -4,7 +4,7 @@
 # You can change the order of the functions as you like. There are blocking and not blocking functions available. You can reasonably use the detection function only if the not blocking functions are used.
 
 # HOW TO RUN
-# • Create two new “Pair” devices on Virtual Serial Ports Emulator (COM1-COM2, COM3-COM4)
+# • Create a “Pair” device on Virtual Serial Ports Emulator (COM1-COM2)
 # • Import package Zeno as a new project on Unity 3D and click play
 # • Open two different terminals and run AUV_simulator.py and mission_manager.py
 # • Zeno GUI:
